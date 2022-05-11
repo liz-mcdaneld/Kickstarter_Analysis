@@ -7,16 +7,16 @@ In this graph we can see that the months of May and June both have a greater suc
 
 Next lets looks at outcomes based on Parent Categories and Subcategories.
 
-Here we can see that of the overall Kickstartes around the world theatre has the most campaigns, with a 60% success rate. 
+Here we can see that of the overall Kickstartes around the world theatre has the most campaigns, and of the 1,393 campaigns 839 of them where successful, meaning there is a 60% success rate. 
 ![Parent Category Outcomes](https://user-images.githubusercontent.com/103263248/167954922-a0d80812-a6a7-4a3b-b210-7b8fdf957bf1.png)
 
 Looking at the US alone there is a grand total of 912 Theatre Kickstarters, with 525 of them being successful.
 ![Parent Category Outcomes-Theatre](https://user-images.githubusercontent.com/103263248/167955551-ad47f9e1-cd36-4acf-87ff-ff6056f0ded8.png)
 
-Breaking it down into the subcategories we can see that plays overall have a large amount of Kickstarters around the world, with a succes rate of 65%. 
+Breaking it down into the subcategories we can see that plays overall have a large amount of Kickstarters around the world, with a grand total of 1,066 campaings and with a success rate of 65%. 
 ![Subcategory Statistics](https://user-images.githubusercontent.com/103263248/167956070-674420c6-9a27-4ed2-842d-f92d7158b2a8.png)
  
- We can even directly look at Great Britian which has a succes rate of 76%.
+ We can even directly look at Great Britian which has a grand total of 314 play Kickstarters and a success rate of 76%.
  ![Subcategory Statistics-Plays](https://user-images.githubusercontent.com/103263248/167956205-19ba4173-454c-40f7-bab5-47f56b95d1de.png)
 
 If we want to look at the data from our Edingurgh Festival Fringe reasearch, we can see that the plays campaigns reached all of their goals, with average donations of $40.48, and an average amount of backers of 62 people.
