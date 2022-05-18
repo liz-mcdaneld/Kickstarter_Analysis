@@ -5,8 +5,7 @@
 ### The purpose of this analysis is to see what correlations are present in successful Kickstarter Campaigns vs failed Kickstarter Campaigns. These outcomes will help decide the best route to take for starting a Theatre Kickstarter Campaign for upcoming plays.
 
 ## Analysis and Challenges
-
-###For this analysis I have filtered down our initial dataset to reveal trends and outcomes for the topic of Theatre Kickstarter Campaigns, specifically for plays. 
+For this analysis I have filtered down our initial dataset to reveal trends and outcomes for the topic of Theatre Kickstarter Campaigns, specifically for plays. 
 Using Excel, I applied filters to search for specific data based on region, goals, amount pledged, outcomes and much more. Through the Excel function [=Round(E2/D2*100,0), which is calculating the pledged amount divided by the goal amount, I created our percentage funded column. To find the average donation per backer on campaigns I created a column using the Excel function [=ROUND(E2/L2,2)], this is our pledged amount divided by our backer count. 
 Using the “Text to Columns” function in Excel, with the “/” as our delimiter, I made two separate columns for Parent Category and Subcategory. This allows us to better filter and sort through which specific data we want to look at. 
 To better understand our date created, date ended, and year of the Kickstarter, I converted the “deadline” and “launched at” columns to a more readable format using the function [=(((J2/60)/60)/24)+DATE(1970,1,1)]. This equation divides the data in the “launched at” column by sixty seconds, then by sixty minuets, and then by twenty-four hours. Then I used that result to tell Excel to apply the [DATE] formula by the Unix timestamp.
