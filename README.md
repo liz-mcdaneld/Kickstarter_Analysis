@@ -16,13 +16,13 @@ To further analyze the findings the Parent Category and Subcategory I have compi
 Finding the subcategory statistics, I have changed the rows to be the subcategory data and added an additional filter of the “Parent Category” to the PivotTable and Pivot Chart.
 Using the PivotTable and PivotChart in Excel allows us to look at the correlations between the outcomes of Kickstarter Campaigns and the Launch Date for all Kickstarter Campaigns.
 By applying a filter for Parent Category, we can look at just the Theatre Outcomes by Launch Date. 
-![](file:///c%3A/Users/lizly/OneDrive/Documents/Data%20class/Theater_Outcomes_vs_Launch.png.png)
+![Theater_Outcomes_vs_Launch png](https://user-images.githubusercontent.com/103263248/168947682-1e7f21a8-ad76-4e44-b3b1-ed2bbbd7ac3c.png)
 If we look at the data for Theatre Outcomes by Launch Date, we can see that May and June had the highest amounts of launched campaigns during this time. We can also see that the success rate trends downward with the rest of the year. One of the months with the highest fail rate is December, with thirty-five failed campaigns out of a grand total of seventy-five launched. 
 
 ### Analysis of Outcomes Based on Goals
 To find the relations of Kickstarter Campaign Goals and the Outcomes I have used the Excel function [=COUNTIFS]. This tells Excel to count the number of Successful, failed, and canceled outcomes using the Theatre Kickstarter Campaigns for Plays for our criteria. To find the percentage of the outcome counts, I applied the function in Excel [=ROUND] to divide outcome counts, by the Total project counts. The collection of this data is applied to a “Outcomes Based on Goal” line graph to visualize the data gathered. 
 The data for Outcomes based on Goals revealed the goal range of less than $1,000, has a 76% success rate. While the goal range of $1,000 to $4,999 has a 73% success rate. We can see a trend in higher percentages of campaign failures as the goal increases past $19,999. 
-![](file:///c%3A/Users/lizly/OneDrive/Documents/Data%20class/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/103263248/168947702-a3bfd5ce-b86a-456b-98b9-25936dcfa903.png)
 
 ### Challenges and Difficulties Encountered
 Challenges encountered with this analysis, is working with a large source of data, and narrowing it down to exactly what is desired. Without the use of filters this would be a lengthy process to do. Other challenges that could have happened is having a shorter time span of data collection, shorter sets of data make trends harder to pinpoint. 
