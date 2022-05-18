@@ -1,9 +1,9 @@
 # Analysis of Kickstarter Campaigns
--
+
 ## Based on the trends in data, what is the best way to have a successful Kickstarter Campaign
 
 ### The purpose of this analysis is to see what correlations are present in successful Kickstarter Campaigns vs failed Kickstarter Campaigns. These outcomes will help decide the best route to take for starting a Theatre Kickstarter Campaign for upcoming plays.
--
+
 ## Analysis and Challenges
 
 ###For this analysis I have filtered down our initial dataset to reveal trends and outcomes for the topic of Theatre Kickstarter Campaigns, specifically for plays. 
@@ -31,7 +31,7 @@ Challenges encountered with this analysis, is working with a large source of dat
 
 
 ## Results
--
+
 ###Conclusions found about the outcomes based on launch date. 
 Reviewing the Outcomes Based on Launch Date trends, the month of May and June had the highest success rate of launch, the lowest success rate is August through December. We can conclude that the best time to launch a new campaign would be either May or June, and the worst time to launch would be after June, specifically December.
 
