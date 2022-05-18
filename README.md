@@ -31,14 +31,14 @@ Challenges encountered with this analysis, is working with a large source of dat
 
 ## Results
 
-###Conclusions found about the outcomes based on launch date. 
+### Conclusions found about the outcomes based on launch date. 
 Reviewing the Outcomes Based on Launch Date trends, the month of May and June had the highest success rate of launch, the lowest success rate is August through December. We can conclude that the best time to launch a new campaign would be either May or June, and the worst time to launch would be after June, specifically December.
 
-###Conclusions for Outcomes based on Goals
+### Conclusions for Outcomes based on Goals
 The more that a goal is decreased below the range of $10,000 to $14,999 the percentage rate of success increases. Focusing on the funding goal range of $10,000 to $14,999, we have a failed percentage rate of 46% and success rate of 54%. The graph “Outcomes Based on Goals” allows us to visualize trends of successful outcomes vs failed based on funding goals. 
 
-###Limitations of this dataset
+### Limitations of this dataset
 The limitation of this dataset is that we do not get a look into how the Goal of the Kickstarter Campaigns is delegated towards the project. Being able to see what percentage of the Goal goes towards certain aspects of the project allows the consideration of what budget cuts are possible to make a lower asking price of a Kickstarter. By knowing this information and making budget cuts where possible, a person could ask for a lower range on the goal. These lower priced goals have shown to be part of the more successful Kickstarter Campaigns. 
 
-###Possible Further Analysis
+### Possible Further Analysis
 Other graphs and data that we could create to pinpoint the best outcome for the purpose of this analysis is finding the genre of the theatre plays and how that could affect the outcomes of the Kickstarter Campaigns. There could also be additional PivotTables, and Pivot Charts created to see if there is any connection with a successful campaign being a “staff pick” or “spotlighted.”
